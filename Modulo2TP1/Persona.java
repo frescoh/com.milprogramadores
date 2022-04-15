@@ -3,7 +3,7 @@
  * Con los métodos: Constructor y un método que permita mostrar la información de la persona.
 */
 
-package com.milprogramadores.clase1y2;
+package com.milprogramadores.Modulo2TP1;
 
 public class Persona {
 	private String nombre;

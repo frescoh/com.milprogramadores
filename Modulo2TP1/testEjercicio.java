@@ -1,4 +1,4 @@
-package com.milprogramadores.clase1y2;
+package com.milprogramadores.Modulo2TP1;
 
 import java.util.ArrayList;
 

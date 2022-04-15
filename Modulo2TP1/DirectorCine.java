@@ -1,4 +1,4 @@
-package com.milprogramadores.clase1y2;
+package com.milprogramadores.Modulo2TP1;
 
 public class DirectorCine extends Persona {
 	private int edad;
@@ -7,5 +7,15 @@ public class DirectorCine extends Persona {
 		super(nombre,apellido);
 		this.edad=edad;
 	}
+
+	public int getEdad() {
+		return edad;
+	}
+
+	public void setEdad(int edad) {
+		this.edad = edad;
+	}
+	
+	
 
 }

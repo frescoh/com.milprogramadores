@@ -9,7 +9,7 @@
  * negativo. Si al decrementar se alcanza un valor negativo el contador toma el valor cero.
 
  */
-package com.milprogramadores.clase1y2;
+package com.milprogramadores.Modulo2TP1;
 
 public class Contador {
 	private  int cont;

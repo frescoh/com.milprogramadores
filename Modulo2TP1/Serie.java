@@ -4,7 +4,7 @@
  * atributos, sobrescribir todos los atributos.
  */
 
-package com.milprogramadores.clase1y2;
+package com.milprogramadores.Modulo2TP1;
 
 public class Serie {
 	private String titulo;
