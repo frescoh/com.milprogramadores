@@ -9,7 +9,7 @@ public class Raices {
 		this.c=c;
 	}
 	
-	public void obtenerRaices() {
+	private void obtenerRaices() {
 		if(this.tieneRaices()) {
 			double r1= (-b+Math.sqrt(b*b-4*a*c))/(2*a);
 			double r2 = (-b-Math.sqrt(b*b-4*a*c))/(2*a);
@@ -30,23 +30,23 @@ public class Raices {
 				System.out.println("La ecuacion no tiene raices en R");
 	}
 	
-	public void obtenerRaiz() {
+	private void obtenerRaiz() {
 		if(b*b-4*a*c==0) 
 			System.out.println("La ecuacion tiene una unica raiz= "+(-b/(2*a)));
 		else
 			System.out.println("La ecuacion no tiene una solucion unica");
 	}
 	
-	public double discriminante() {
+	private double discriminante() {
 		return Math.pow(b, 2)-4*a*c;
 	}
 	
-	public boolean tieneRaices() {
+	private boolean tieneRaices() {
 		return Math.pow(b, 2)-4*a*c>0;
 	}
 	
-	public boolean tieneRaiz() {
-		return Math.pow(b, 2)-4*a*c<0;
+	private boolean tieneRaiz() {
+		return Math.pow(b, 2)-4*a*c==0;
 	}
 
 }
