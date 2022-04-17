@@ -15,17 +15,40 @@ Practicas de programa Mil Programadores Salteños [Ver más](http://milprogramad
 - Encapsular atributos.
 
 
+## Módulo 3: 
+- Entrada y Salida por consola. 
+- Variables de texto. 
+- Leer/escribir textos. 
+- Pilas. 
+- Colas. 
+- Listas. 
+- HashMap. 
+- Recursión.
+
+## Módulo 4: Bases de Datos
+- Base de datos. 
+- Bases de datos relacionales. 
+- Análisis y diseño de bases de datos. 
+- Conexión con bases de datos.
+
+## Módulo 5: Programación con equipos
+- Metodologías ágiles de desarrollo. 
+- Testing. 
+- Herramientas de trabajo colaborativo. 
+- Git-hub.
+
+## Módulo 6: Spring boot
+- Spring boot project. 
+- Introducción a Servicios Web. 
+- SOAP. 
+- REST. 
+- Creación de API REST con spring boot.
+
+## Trabajo Final...
   
   <img src="https://user-images.githubusercontent.com/83863344/163735168-b1b5b2dd-e924-43c4-ae81-b68963094158.png"
   alt = "Logo de Java"
   width="80" height="90" >
-
-  
-  
- 
-
-
-
 
 @autor: Héctor Hernán Fresco
 
