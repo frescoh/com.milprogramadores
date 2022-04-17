@@ -5,6 +5,33 @@
 
 Practicas de programa Mil Programadores Salteños [Ver más](http://milprogramadores.unsa.edu.ar/index.php/mil-programadores) 
 
+
+# Contenido
+
+## Módulo 1: 
+- Formulación de problemas. 
+- Etapas en la resolución de problemas computacionales.
+- Algoritmo. 
+- Definición. 
+- Características. 
+- Primeros pasos en java. 
+- Estructuras fundamentales. 
+- Variables y Constantes. 
+- Tipos de datos primitivos: 
+  - Números, enteros y flotantes. 
+  - Cadenas. 
+- Operadores Aritméticos combinados con asignación. 
+- Arreglos y vectores. 
+- Sentencia if. 
+- Expresiones anidadas.
+- Ciclos o bucles
+  - Sentencia while. 
+  - Sentencia for.
+- Métodos de Ordenamiento. 
+- Búsquedas. 
+- Operadores lógicos.
+
+
 ## Módulo 2:
 - Creación de Clases y Objetos. 
 - Sintaxis y variables. 
@@ -50,6 +77,6 @@ Practicas de programa Mil Programadores Salteños [Ver más](http://milprogramad
   alt = "Logo de Java"
   width="80" height="90" >
 
-@autor: Héctor Hernán Fresco
+>@autor: Héctor Hernán Fresco
 
 
