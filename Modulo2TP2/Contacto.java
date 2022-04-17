@@ -53,7 +53,7 @@ public class Contacto {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Contacto contacto= (Contacto) o;
-        return this.compareTo((Contacto)o)==0;
+        return this.compareTo(contacto)==0;
     }
 
 	
