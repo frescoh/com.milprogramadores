@@ -9,6 +9,10 @@ public class Cuadrado extends Figura{
 		this.lado = lado;
 	}
 	
+	public double calcularPerimetro() {
+		return lado*4;
+	}
+	
 	@Override
 	public double area() {
 		return Math.pow(this.lado,2);

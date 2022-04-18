@@ -8,6 +8,11 @@ public class Circulo extends Figura{
 		this.radio = radio;
 	}
 	
+	public double calcularPerimetro() {
+		return 2*3.14*radio;
+	}
+	
+	
 	@Override
 	public double area() {
 		return Math.pow(radio, 2) *3.14;
