@@ -25,14 +25,19 @@ public class TestJugo {
 		}
 		int jugo=0;
 		System.out.println("Fruta\tPeso[gr]\tJugo[cc]");
-		//
-		//canasta.forEach(a -> System.out.println(a.getClass()+"\t"+a.getPeso()+"\t"+a.hacerJugo()));
-		//
+		/* Como sumar la cantidad de jugo dentro del forEach? 
+		canasta.forEach(a -> {
+		System.out.println(a.getClass().getSimpleName()+"\t"+a.getPeso()+"\t\t"+(double)Math.round(a.hacerJugo()*100)/100 );
+		});
+		*/
+		
+		
 		for(Fruta f : canasta) {
 			double jugoDeEstaFruta= (double)Math.round(f.hacerJugo()*100)/100;
 			jugo +=jugoDeEstaFruta;
 			System.out.println(f.getClass().getSimpleName()+"\t"+f.getPeso()+"\t\t"+jugoDeEstaFruta);
 		}
+		
 		System.out.println("Total de jugo obtenido: "+jugo);
 		scanner.close();
 	}
