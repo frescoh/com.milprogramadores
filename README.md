@@ -1,4 +1,6 @@
 # Mil Programadores Salteños
+![Last Commit](https://img.shields.io/github/last-commit/frescoh-ar/com.milprogramadores?color=orange&logo=java&logoColor=orange&style=plastic)
+![Laguaje](https://img.shields.io/github/languages/top/frescoh-ar/com.milprogramadores?color=orange&logo=java&logoColor=orange&style=plastic)
 
 
 <img loading="lazy" width="1024" height="189" src="http://milprogramadores.unsa.edu.ar/wp-content/uploads/2022/02/Web-1000-prog_pie-cpn-logos-3-1024x189.png" alt="Logos" class="wp-image-122" srcset="http://milprogramadores.unsa.edu.ar/wp-content/uploads/2022/02/Web-1000-prog_pie-cpn-logos-3-1024x189.png 1024w, http://milprogramadores.unsa.edu.ar/wp-content/uploads/2022/02/Web-1000-prog_pie-cpn-logos-3-300x55.png 300w, http://milprogramadores.unsa.edu.ar/wp-content/uploads/2022/02/Web-1000-prog_pie-cpn-logos-3-768x142.png 768w, http://milprogramadores.unsa.edu.ar/wp-content/uploads/2022/02/Web-1000-prog_pie-cpn-logos-3-1536x284.png 1536w, http://milprogramadores.unsa.edu.ar/wp-content/uploads/2022/02/Web-1000-prog_pie-cpn-logos-3-2048x379.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px">
@@ -33,7 +35,7 @@ Practicas del programa Mil Programadores Salteños [Ver más](http://milprograma
 
 
 ## Módulo 2: 
-##### [TP1](https://github.com/FrescoHAr/com.milprogramadores/tree/main/Modulo2TP1) [TP2](https://github.com/FrescoHAr/com.milprogramadores/tree/main/Modulo2TP2) [TP3](https://github.com/FrescoHAr/com.milprogramadores/tree/main/Modulo2TP3)
+##### [TP1](https://github.com/frescoh-ar/com.milprogramadores/tree/main/Modulo2TP1) [TP2](https://github.com/frescoh-ar/com.milprogramadores/tree/main/Modulo2TP2) [TP3](https://github.com/frescoh-ar/com.milprogramadores/tree/main/Modulo2TP3)
 - Creación de Clases y Objetos. 
 - Sintaxis y variables. 
 - Métodos de clases y métodos especiales. 
@@ -78,6 +80,6 @@ Practicas del programa Mil Programadores Salteños [Ver más](http://milprograma
   alt = "Logo de Java"
   width="80" height="90" >
 
->@autor: Héctor Hernán Fresco
+>@Héctor Hernán Fresco
 
 
