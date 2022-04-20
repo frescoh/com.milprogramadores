@@ -1,6 +1,8 @@
 package com.milprogramadores.Modulo2TP3;
 
+import java.io.ObjectInputStream.GetField;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class TestJugo {
@@ -23,22 +25,27 @@ public class TestJugo {
 					canasta.add(new Naranja(peso()));
 			}
 		}
-		int jugo=0;
+		double sum;
+		int i;
+        for(sum= 0, i= canasta.size() - 1; 0 <= i; sum+= canasta.get(i--).hacerJugo());
+		
 		System.out.println("Fruta\tPeso[gr]\tJugo[cc]");
-		/* Como sumar la cantidad de jugo dentro del forEach? 
-		canasta.forEach(a -> {
-		System.out.println(a.getClass().getSimpleName()+"\t"+a.getPeso()+"\t\t"+(double)Math.round(a.hacerJugo()*100)/100 );
-		});
-		*/
+		 
+		canasta.forEach(a -> { System.out.println(a.getClass().getSimpleName()+
+				"\t"+a.getPeso()+
+				"\t\t"+(double)Math.round(a.hacerJugo()*100)/100 );});
+		System.out.println("Total de jugo obtenido: "+(double)Math.round(sum*100)/100);
 		
 		
+		/*
+		double jugo=0;
 		for(Fruta f : canasta) {
 			double jugoDeEstaFruta= (double)Math.round(f.hacerJugo()*100)/100;
 			jugo +=jugoDeEstaFruta;
 			System.out.println(f.getClass().getSimpleName()+"\t"+f.getPeso()+"\t\t"+jugoDeEstaFruta);
 		}
 		
-		System.out.println("Total de jugo obtenido: "+jugo);
+		System.out.println("Total de jugo obtenido: "+jugo);*/
 		scanner.close();
 	}
 	
