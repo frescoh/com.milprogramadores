@@ -7,6 +7,7 @@ public class Naranja extends Fruta {
 		// TODO Auto-generated constructor stub
 	}
 	
+	@Override
 	public double hacerJugo() {
 		return this.getPeso()*0.8;
 	}

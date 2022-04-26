@@ -1,6 +1,6 @@
 package com.milprogramadores.Modulo2TP3;
 
-public class Fruta {
+public abstract class Fruta {
 	private double peso;
 	
 	public Fruta(double Peso) {
@@ -15,8 +15,6 @@ public class Fruta {
 		this.peso = peso;
 	}
 	
-	public double hacerJugo() {
-		return 0;
-	}
+	public abstract double hacerJugo();
 
 }
