@@ -35,7 +35,7 @@ Practicas del programa Mil Programadores Salteños [Ver más](http://milprograma
 
 
 ## Módulo 2: 
-##### [TP1](https://github.com/frescoh/com.milprogramadores/tree/main/Modulo2TP1) [TP2](https://github.com/frescoh/com.milprogramadores/tree/main/Modulo2TP2) [TP3](https://github.com/frescoh/com.milprogramadores/tree/main/Modulo2TP3)
+##### [TP1](https://github.com/frescoh/com.milprogramadores/tree/main/U2-POO/src/com.milprogramadores/Modulo2TP1) [TP2](https://github.com/frescoh/com.milprogramadores/tree/main/U2-POO/src/com.milprogramadores/Modulo2TP2) [TP3](https://github.com/frescoh/com.milprogramadores/tree/main/U2-POO/src/com.milprogramadores/Modulo2TP3)
 - Creación de Clases y Objetos. 
 - Sintaxis y variables. 
 - Métodos de clases y métodos especiales. 
