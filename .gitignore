@@ -1,5 +1,11 @@
-*metadata
 *.classpath
 *.project
 *.settings/
-*bin/
+bin/
+*.metadata/
+
+#*/*.classpath
+#*/*.project
+#*.settings
+#*/bin
+#*/*.metadata
