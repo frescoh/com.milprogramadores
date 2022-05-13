@@ -1,11 +1,8 @@
-*.classpath
-*.project
-*.settings/
-bin/
-*.metadata/
+# Workspace file
+.metadata/
 
-#*/*.classpath
-#*/*.project
-#*.settings
-#*/bin
-#*/*.metadata
+# Project files
+.classpath
+.project
+.settings/
+bin/
