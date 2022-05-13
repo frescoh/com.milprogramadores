@@ -46,6 +46,7 @@ Practicas del programa Mil Programadores Salteños [Ver más](http://milprograma
 
 
 ## Módulo 3: 
+#### [TP1](https://github.com/frescoh/com.milprogramadores/tree/main/U3-IOandDM/src/Modulo3TP1)
 - Entrada y Salida por consola. 
 - Variables de texto. 
 - Leer/escribir textos. 
