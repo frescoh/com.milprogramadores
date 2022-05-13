@@ -6,4 +6,11 @@
 .project
 .settings/
 bin/
+
+
+# Codigo dee jemplo o con contenido teorico
+teoria/
+
+# Recursos usados o generados por los programas
+resources/
 *.txt
